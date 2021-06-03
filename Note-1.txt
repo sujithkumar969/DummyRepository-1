@@ -11,5 +11,9 @@ public class SumNatural {
         }
 
         System.out.println("Sum = " + sum);
+            
+// sum = sum - i;
+sum -= i;
+
     }
 }

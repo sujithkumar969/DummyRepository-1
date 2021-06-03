@@ -9,7 +9,9 @@ public class Main {
   int sum = n1 + n2;
   int minus = n1 - n2;
   int multiply = n1 * n2;
-  int subtract = n1 + n2;
+// int multiply = n1 =/- n2;
+// int multiply = n1 @ n2;
+  int subtract = n1 + //n5;
   int divide = n1 / n2;
   int rnums = n1 % n2;
   System.out.printf("Sum = %d\nMinus = %d\nMultiply = %d\nSubtract = %d\nDivide = %d\nRemainderOf2Numbers = %d\n ", sum, minus, multiply, subtract, divide, rnums);
