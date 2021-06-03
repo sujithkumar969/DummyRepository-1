@@ -9,8 +9,8 @@ public class Main {
   int sum = n1 + n2;
   int minus = n1 - n2;
   int multiply = n1 * n2;
-//sujith -> int multiply = n1 =/- n2;
-//sujith -> int multiply = n1 @ n2;
+//sujith -> int multiply = n1 =/- n2; //sujith2 -> int multiply = n1 =/- n2;
+//sujith -> int multiply = n1 @ n2; //sujith2 -> int multiply = n1 =/- n2;
   int subtract = n1 + //n5;
   int divide = n1 / n2;
   int rnums = n1 % n2;
